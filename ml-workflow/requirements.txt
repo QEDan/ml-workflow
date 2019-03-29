@@ -1,6 +1,9 @@
 # local package
 -e .
 
+pandas
+scikit-learn
+
 # external requirements
 click
 Sphinx
